@@ -44,7 +44,3 @@ c1913c772b83   alpine:mario   <span class="hljs-string">"/bin/sh"</span>   <span
 <blockquote>
 <p class="has-line-data" data-line-start="37" data-line-end="38">En esta parte creamos el contenedor de modo interactivo, en segundo plano y exponiendo el puerto 8080 dándole un nombre “marioV2”</p>
 </blockquote>
-<ol start="5">
-<li class="has-line-data" data-line-start="39" data-line-end="40">Actualiza el sistema operativo.&lt;/br&gt;</li>
-<li class="has-line-data" data-line-start="40" data-line-end="41">Expone el puerto 80.&lt;/br&gt;</li>
-</ol>
