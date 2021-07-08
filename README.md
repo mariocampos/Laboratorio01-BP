@@ -34,7 +34,7 @@ alpine       mario     <span class="hljs-number">4161</span>cded0f90   About an 
 <ol start="4">
 <li class="has-line-data" data-line-start="28" data-line-end="29">Se crea el contenedor:</li>
 </ol>
-<pre><code class="has-line-data" data-line-start="30" data-line-end="37" class="language-sh"><span class="hljs-variable">$docker</span> run -itdp <span class="hljs-number">80</span>:<span class="hljs-number">8080</span> --name=marioV2 alpine:mario
+<pre><code class="has-line-data" data-line-start="30" data-line-end="37" class="language-sh"><span class="hljs-variable">$docker</span> run -dp <span class="hljs-number">80</span>:<span class="hljs-number">8080</span> --name=marioV2 alpine:mario
 c1913c772b83fa05811816ecd64e367cbcc07955622ea71ae03d091bb6718c3f
 
 <span class="hljs-variable">$docker</span> ps
